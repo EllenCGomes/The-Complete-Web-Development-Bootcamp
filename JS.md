@@ -12,5 +12,4 @@ https://user-images.githubusercontent.com/78104233/187053339-13719d49-3176-4793-
 ## Dice Game :game_die:
 
 
-https://user-images.githubusercontent.com/78104233/187055616-c5a02a5b-b852-4cd9-b466-4b879325c381.mp4
-
+![dicegame](https://user-images.githubusercontent.com/78104233/187056116-20c8d8a6-881a-4229-8e32-45b166ef9f7d.gif)
