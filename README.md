@@ -9,9 +9,8 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
 **Projects:** 
-- <a href="Part1/practiceExercises.js">Part 1:</a> Values and Variables; Data Types; Let, Const and Var; Basic Operators; Strings and Template Strings;
-If/Else Statements; Type Conversion and Coercion; Equality Operators; Logical Operators; Switch Statement; Ternary Operator.
-
+- <a href="HTML_CSS.md">HTML/CSS</a>
+- <a href="JS.md">JS</a>
 ------------------------------------------------------------------------------------------------------------------------------------------------------- 
  
 
