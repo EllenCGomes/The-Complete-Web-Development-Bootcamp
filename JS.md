@@ -1,6 +1,6 @@
 ## Drum Kit :drum:
 
-<img src="img/us-flag.png" height="20" align="center"> (With Audio) <p align="right"><a href="README.md">GO BACK</a></p>
+<p align="left"><img src="img/us-flag.png" height="20" align="center"> (With Audio) </p><p align="right"><a href="README.md">GO BACK</a></p>
 
 <img src="img/br-flag.png" height="20" align="center"> (Com Audio)  <a href="README-pt.md">VOLTAR</a>
 
